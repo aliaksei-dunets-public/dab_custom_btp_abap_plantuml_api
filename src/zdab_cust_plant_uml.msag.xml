@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZDAB_CUST_PLANT_UML</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>DAB: Custom ABAP - Plant UML Message Class</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZDAB_CUST_PLANT_UML</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp;1&amp;2&amp;3&amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZDAB_CUST_PLANT_UML</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>&amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZDAB_CUST_PLANT_UML</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Object name is missed</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZDAB_CUST_PLANT_UML</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>The class &amp;1 doesn&apos;t exist</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZDAB_CUST_PLANT_UML</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>The interface &amp;1 doesn&apos;t exist</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
